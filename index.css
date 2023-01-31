@@ -11,7 +11,7 @@ header
     background: black;
     padding: 20px;
     width: 90%;
-    height: 50%;
+    height: auto;
     margin: auto;
     text-align: center;
 }
@@ -163,6 +163,7 @@ h4
 {
     border-radius: 5px;
     margin-top: 15px;
+    width: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
 .finishButton:hover
@@ -205,6 +206,7 @@ h4
     padding-top: 20px;
     padding-bottom: 20px;
     width: 65%; 
+    height: auto;
     background-color: darkcyan; 
     border-radius: 15px;
     height: 1fr;
